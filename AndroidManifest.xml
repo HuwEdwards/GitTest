@@ -19,6 +19,8 @@
      supplies a unique name for the application.  When writing your
      own application, the package name must be changed from "com.example.*"
      to come from a domain that you own or have control over. -->
+	 
+	 <!-- This comment has been added to test Git Hub -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.android.apis">
 
